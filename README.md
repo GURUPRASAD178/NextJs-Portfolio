@@ -6,7 +6,7 @@ Welcome to the source code of my **personal developer portfolio**, built with [N
 
 ## 📸 Preview
 
-![Portfolio Preview] : https://guruprasad-hd.netlify.app/
+Portfolio : https://guruprasad-hd.netlify.app/
 
 ---
 
