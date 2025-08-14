@@ -38,5 +38,7 @@ Portfolio : https://guruprasad-hd.netlify.app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/GURUPRASAD178/nextjs-portfolio.git
-cd nextjs-portfolio
+git clone https://github.com/GURUPRASAD178/NextJs-Portfolio.git
+cd NextJs-Portfolio
+npm install
+npm start
